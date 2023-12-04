@@ -8,4 +8,4 @@ from Base_App.views import index
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', index, name='inicio')
-] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+] + static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT) + static(settings.STATIC_URL, document_root = settings.STATIC_ROOT)
