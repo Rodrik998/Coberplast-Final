@@ -1,1 +1,1 @@
-Proyecto para practica personal basadao en la empresa donde trabajo actualmente (en proceso)
+Proyecto para practica personal basado en la empresa donde trabajo actualmente (en proceso)
